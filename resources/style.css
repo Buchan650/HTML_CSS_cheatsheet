@@ -1,0 +1,51 @@
+*{
+    font-family: Roboto;
+}
+
+th{
+    border: 3px solid rgb(12, 12, 79);
+    background-color: blue;
+}
+.title{
+    text-align: center;
+}
+td{
+    border: 3px solid lightblue;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+table{
+    padding: 2px;
+    margin: 10px auto;
+    border: 3px solid black;
+}
+
+#common{
+    width: 100%;
+    height: auto
+}
+
+#table{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.tables{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+#css_attributes{
+    width: 100%;
+    height: auto;
+}
